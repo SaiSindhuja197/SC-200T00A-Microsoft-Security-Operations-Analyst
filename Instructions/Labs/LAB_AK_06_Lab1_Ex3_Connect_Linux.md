@@ -1,5 +1,7 @@
 # Lab 06: Connect Linux hosts to Microsoft Sentinel using data connectors
 
+## Estimated timing: 40 minutes
+
 ## Lab scenario
 
 You are a Security Operations Analyst working at a company that implemented Microsoft Sentinel. You must learn how to connect log data from the many data sources in your organization. The next source of data is Linux virtual machines using the Common Event Formatting (CEF) via Legacy Agent and Syslog connectors.
@@ -12,8 +14,6 @@ You are a Security Operations Analyst working at a company that implemented Micr
 - Task 2: Connect a Linux Host using the Common Event Format connector
 - Task 3: Connect a Linux host using the Syslog connector
 - Task 4: Configure the facilities you want to collect and their severities for the Syslog connector
-
-## Estimated timing: 40 minutes
 
 ## Architecture Diagram
 
